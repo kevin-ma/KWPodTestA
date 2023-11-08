@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "KWFunction.h"
 
 FOUNDATION_EXPORT double KWPodTestAVersionNumber;
 FOUNDATION_EXPORT const unsigned char KWPodTestAVersionString[];

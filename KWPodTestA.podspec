@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/makaiwen/KWPodTestA'
+  s.homepage         = 'https://github.com/kevin-ma/KWPodTestA'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'makaiwen' => 'makaiwen@bytedance.com' }
-  s.source           = { :git => 'https://github.com/makaiwen/KWPodTestA.git', :tag => s.version.to_s }
+  s.author           = { 'kevin-ma' => 'devkevinma@gmail.com' }
+  s.source           = { :git => 'https://github.com/kevin-ma/KWPodTestA.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'

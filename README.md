@@ -22,7 +22,7 @@ pod 'KWPodTestA'
 
 ## Author
 
-makaiwen, makaiwen@bytedance.com
+kevin-ma, devkevinma@gmail.com
 
 ## License
 
