@@ -62,10 +62,10 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A541733A13DD5727D0DAA098 /* Pods_KWPodTestA_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KWPodTestA_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A875F4442F84BF700207383C /* Pods-KWPodTestA_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KWPodTestA_Tests.debug.xcconfig"; path = "Target Support Files/Pods-KWPodTestA_Tests/Pods-KWPodTestA_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		C7D8FCF29ACB72C2CAB7EB18 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		DCD27DC3287EB058E44D6012 /* KWPodTestA.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = KWPodTestA.podspec; path = ../KWPodTestA.podspec; sourceTree = "<group>"; };
+		C7D8FCF29ACB72C2CAB7EB18 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		DCD27DC3287EB058E44D6012 /* KWPodTestA.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = KWPodTestA.podspec; path = ../KWPodTestA.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E491CA581C47FB917BA9808C /* Pods-KWPodTestA_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KWPodTestA_Tests.release.xcconfig"; path = "Target Support Files/Pods-KWPodTestA_Tests/Pods-KWPodTestA_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F3FA4C00BDCD9A19C04BBE67 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F3FA4C00BDCD9A19C04BBE67 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		F67D37E005323A435FD94731 /* Pods_KWPodTestA_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KWPodTestA_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -103,7 +103,6 @@
 				A875F4442F84BF700207383C /* Pods-KWPodTestA_Tests.debug.xcconfig */,
 				E491CA581C47FB917BA9808C /* Pods-KWPodTestA_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -258,6 +257,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

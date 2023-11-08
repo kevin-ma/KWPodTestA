@@ -1,0 +1,6 @@
+framework module Pods_KWPodTestA_Tests {
+  umbrella header "Pods-KWPodTestA_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - KWPodTestA (0.1.0)
+
+DEPENDENCIES:
+  - KWPodTestA (from `../`)
+
+EXTERNAL SOURCES:
+  KWPodTestA:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KWPodTestA: 87e2b383584864c63dde2cfc58c76ef4ac073261
+
+PODFILE CHECKSUM: 51264b854ed4b5ab4687a84d388aff8efdcdd358
+
+COCOAPODS: 1.12.1
